@@ -1,0 +1,5 @@
+{
+  "name": "Tri-Tac-Toe Arena",
+  "description": "A chaotic 3-player strategy game on a dynamic grid. Connect 4 to win while battling two opponents. Features an AI commentator powered by Gemini.",
+  "requestFramePermissions": []
+}
